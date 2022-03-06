@@ -1,0 +1,6 @@
+INP
+STA A
+ISZ A
+OUT
+HLT
+A: .data 1 0

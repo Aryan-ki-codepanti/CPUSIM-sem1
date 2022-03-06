@@ -1,0 +1,11 @@
+
+K: INP
+SPA
+BUN L
+ADD RES
+STA RES
+BUN K
+L: LDA RES
+OUT
+HLT
+RES: .data 1 0

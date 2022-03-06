@@ -1,0 +1,20 @@
+INP
+STA A
+INP 
+STA B
+K: LDA C 
+ADD A
+STA C
+LDA B
+ADD D
+STA B
+SZA
+BUN K
+LDA C
+OUT
+HLT
+
+A: .data 1 0
+B: .data 1 0
+C: .data 1 0
+D: .data 1 -1

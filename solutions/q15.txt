@@ -1,0 +1,4 @@
+INP
+ADD 0 20
+OUT
+HLT

@@ -1,0 +1,12 @@
+
+K: INP
+SZA
+BUN M
+BUN L
+M: ADD RES
+STA RES
+BUN K
+L: LDA RES
+OUT
+HLT
+RES: .data 1 0

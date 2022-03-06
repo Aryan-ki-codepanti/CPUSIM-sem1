@@ -1,0 +1,3 @@
+ISZ 10
+OUT
+HLT

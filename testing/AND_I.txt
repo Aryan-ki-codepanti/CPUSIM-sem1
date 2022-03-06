@@ -1,0 +1,3 @@
+ADD_I 10
+OUT
+HLT
